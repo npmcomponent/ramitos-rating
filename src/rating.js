@@ -1,6 +1,6 @@
 var html = require('./template'),
-    create = require('domify'),
-    ev = require('event')
+    create = require('component-domify'),
+    ev = require('component-event')
 
 module.exports = function (insert) {
   var numbers = {49: 1, 50: 2, 51: 3, 52: 4, 53: 5};

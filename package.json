@@ -1,0 +1,13 @@
+{
+  "name": "ramitos-rating",
+  "version": "0.0.3",
+  "main": "src/rating.js",
+  "styles": [
+    "src/rating.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
